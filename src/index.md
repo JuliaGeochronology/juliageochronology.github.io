@@ -1,7 +1,3 @@
-```@meta
-CurrentModule = JuliaGeochronologyDocs
-```
-
 # JuliaGeochronologyDocs
 
 The [JuliaGeochronology](https://github.com/JuliaGeochronology) organisation is an effort by geoscientists to bring fast and accurate open source tools for the analysis of radiometric geochronology data to the Julia language.
