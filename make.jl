@@ -19,6 +19,5 @@ makedocs(;
 
 deploydocs(;
     repo = "github.com/JuliaGeochronology/juliageochronology.git.io.git",
-    versions = nothing,
-    branch = "gh-pages"
+    versions = nothing
 )
