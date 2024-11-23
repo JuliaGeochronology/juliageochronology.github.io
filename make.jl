@@ -1,11 +1,10 @@
 # SPDX-FileCopyrightText: 2024 Jarred C Lloyd (https://github.com/jarredclloyd) and the JuliaGeochronology contributors
 # SPDX-License-Identifier: MIT
 
-cd(@__DIR__)
 using Documenter
 
 makedocs(;
-    sitename="Julia Geochronology",
+    sitename="JuliaGeochronology",
     authors="Jarred C Lloyd (https://github.com/jarredclloyd) and JuliaGeochronology contributors",
     format=Documenter.HTML(;
         canonical="https://juliageochronology.github.io/",
