@@ -1,4 +1,4 @@
-# <img src="https://github.com/JuliaGeochronology/juliageochronology.github.io/blob/main/src/assets/logo.png?raw=true" alt="JuliaGeochronology logo" style="width:40px;height:40px;"> JuliaGeochronology
+# JuliaGeochronology
 
 The [JuliaGeochronology](https://github.com/JuliaGeochronology) organisation is an effort by geoscientists to bring fast and accurate open source tools for the analysis of radiometric geochronology data to the Julia language.
 
