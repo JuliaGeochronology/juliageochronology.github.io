@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2024 Jarred C Lloyd (https://github.com/jarredclloyd) and the JuliaGeochronology contributors
 # SPDX-License-Identifier: MIT
 
-using Documenter
+using Documenter, DocumenterCitations
 
 bib = CitationBibliography(
     joinpath(@__DIR__, "src", "refs.bib"),
