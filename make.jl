@@ -3,6 +3,11 @@
 
 using Documenter
 
+bib = CitationBibliography(
+    joinpath(@__DIR__, "src", "refs.bib"),
+    style=:numeric
+)
+
 makedocs(;
     sitename="JuliaGeochronology",
     authors="Jarred C Lloyd (https://github.com/jarredclloyd) and JuliaGeochronology contributors",
@@ -13,8 +18,9 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
-        "Fundamentals of Radiometric Geochronology" => "principles.md"
+        "Radiometric Geochronology Fundamentals" => "principles.md"
     ],
+    plugins=[bib]
 )
 
 deploydocs(;

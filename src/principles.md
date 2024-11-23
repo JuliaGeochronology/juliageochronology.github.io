@@ -6,7 +6,8 @@ It relies on the principle that the rate at which a particular radioactive eleme
 # Primer on nuclides and radioactive decay
 ## Nuclides
 Fundamental to geochronology are the concepts of *stable nuclides* and *radionuclides*.
-A *[nuclide](https://en.wikipedia.org/wiki/Nuclide)* is an atom with a specific number of protons, neutrons, and energy state.
+
+A *[nuclide](https://en.wikipedia.org/wiki/Nuclide)* is an atom with a specific number of protons, neutrons, and energy state[Chem2e:21.1](@cite).
 *Isotopes*, *isotones*, and *isobars* are all forms of nuclides.
 * *Isotopes* have the same Z-number (protons), but different number of neutrons
     * They are different masses of the same element.
@@ -18,5 +19,13 @@ A *[nuclide](https://en.wikipedia.org/wiki/Nuclide)* is an atom with a specific 
     * e.g. ``{^{87}_{37}}\text{Rb} \text{ \& } {^{87}_{38}}\text{Sr}``
 
 The configuration of a nuclide will either make it *stable* or *unstable*.
-If the nuclide is *unstable* it is called a *radionuclide* and will undergo some form of radioactive decay.
-There are ``\sim905`` naturally occurring nuclides, of which 90 are theoretically stable.
+If the nuclide is *unstable* it is called a *radionuclide* and will undergo some form of *radioactive decay*.
+There are ``\sim``905 naturally occurring nuclides, of which 90 are theoretically stable to all but alpha decay. You can view all the known nuclides (natural and synthetic) at the [IAEA Live Chart of Nuclides](https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html)
+
+## Radioactive Decay
+*Radioactive decay* ([wiki: Radioactive Decay](https://en.wikipedia.org/wiki/Radioactive_decay)) is the process where an unstable atomic nucleus (i.e. radionuclide) loses energy by radiation.
+
+```@bibliography
+Pages = ["principles.md"]
+Canonical = false
+```
