@@ -4,8 +4,6 @@
 cd(@__DIR__)
 using Documenter
 
-DocMeta.setdocmeta!(JuliaGeochronologyDocs, :DocTestSetup, :(using JuliaGeochronologyDocs); recursive=true)
-
 makedocs(;
     sitename="Julia Geochronology",
     authors="Jarred C Lloyd (https://github.com/jarredclloyd) and JuliaGeochronology contributors",
