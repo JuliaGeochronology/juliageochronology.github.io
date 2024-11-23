@@ -1,9 +1,0 @@
-# SPDX-FileCopyrightText: 2024 Jarred C Lloyd (https://github.com/jarredclloyd) and the JuliaGeochronology contributors
-# SPDX-License-Identifier: MIT
-
-[deps]
-Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-
-[compat]
-julia = "1.10"
-Documenter = "1.8"
