@@ -45,7 +45,7 @@ It results in a child nuclide with an A-number four units smaller than the paren
 For example, uranium-238 undergoes α-decay to form thorium-234:
 
 ```math
-{^{238}_{92}}\text{U} \longrightarrow {^{234}_{90}}\text{Th} + {^{4}_{2}}\text{α}^{2+}
+{^{238}_{92}}\text{U} \longrightarrow {^{234}_{90}}\text{Th} + {^{4}_{2}}\text{α}^{2+}
 ```
 
 ### Beta-minus (``\text{β}^-``) decay
@@ -80,7 +80,7 @@ Gamma (γ) emission is the result of a nuclide forming in an excited state (ind
 
 There is no change in the A- or Z-number of the nuclide, unless accompanied by another mode of radioactive decay.
 ```math
-{^{60}_{28}}\text{Ni}^* \longrightarrow {^{60}_{28}}\text{Ni} + \text{γ}
+{^{60}_{28}}\text{Ni}^* \longrightarrow {^{60}_{28}}\text{Ni} + \text{γ}
 ```
 
 [^a]: The term *daughter* nuclide is commonly used.
